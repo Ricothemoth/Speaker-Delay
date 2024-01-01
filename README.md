@@ -14,10 +14,13 @@ This web page allows users to input temperature, distances, and heights for high
 
 ## Usage
 
-1. Open `index.html` in a web browser.
+## Usage
+
+1. Open `Eric Speaker Delay V1.html` in a web browser.
 2. Enter the required values for temperature, distances, and heights.
 3. Click the "Calculate Distance" button.
 4. View the results for each sound source.
+
 
 ## Dependencies
 
